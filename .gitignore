@@ -1,0 +1,49 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.vim/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+*.backup
+
+# Build/Output directories (if you add tools later)
+dist/
+build/
+output/
+
+# Node modules (if you add web tools later)
+node_modules/
+npm-debug.log*
+
+# Python cache (if you add Python scripts)
+__pycache__/
+*.pyc
+*.pyo
+
+# Personal notes/drafts
+drafts/
+personal-notes/
+*.draft
+
+# Large media files (unless specifically needed)
+*.wav
+*.mp3
+*.mp4
+*.avi
